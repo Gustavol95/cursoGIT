@@ -1,0 +1,43 @@
+009-0191666
+WINDOWS 8.1 SINGLE LANGUAGE
+00179-40351-18673-AAOEM
+
+git push -u origin2 master
+
+
+phx
+
+cd existing_folder
+
+git init
+
+git remote add origin https://gitlab.com/vprichar/de-verdad.git
+
+git add .
+
+git commit
+
+git push -u origin master
+
+
+
+
+
+
+
+ORDER CONFIRMATION NUMBER:  20161122171017-822-2070167
+Order #20161122171017-822-2070167
+
+
+puntos por viaje. //sdfghjklwertyuiop
+levantamiento de fallo(  ) //lkjhgfdsdfghjk
+mostrar lo tecnicos en tiempo real (  ) //lkjhgfdshjk
+
+Every ticket purchased will include a choice of either a standard physical or standard digital copy of Metallica's new album, Hardwired...To Self Destruct. Ticket purchasers will receive instructions via email on how to redeem their album(s) within 5 days following their purchase.
+
+All tickets are for WILL CALL ONLY. Additional details about Will Call ticket collection will be emailed to all ticket purchasers a few weeks prior to the event.
+
+Door and show times are subject to change.
+Windows 7: 0x80070570 
+Windows 10: 0x8007025D
+http://support.hp.com/mx-es/product/HP-Pavilion-dv4-4100-Entertainment-Notebook-PC-series/5145696/model/5170555/drivers
